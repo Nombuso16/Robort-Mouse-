@@ -2,7 +2,7 @@ import os
 import time
 from random import randint
 
-
+# testing
 def get_grid_size() -> int:
     """
     Get input from user for size of the grid
